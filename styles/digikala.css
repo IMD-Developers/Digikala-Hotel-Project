@@ -1,0 +1,32 @@
+.ftms-i1,.ftms-i2,.ftms-i3,.ftms-i4{
+    width: 23%;
+    height: 58vh;
+    margin: 9px;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    transition-property: border   border-radius  margin;
+    transition-duration: .2s .1s .1s;
+    
+
+}
+.ftms-i1:hover,.ftms-i2:hover,.ftms-i3:hover,.ftms-i4:hover{
+ 
+    border:  2px solid rgb(209, 207, 207,0.5);
+   
+   margin: 3px 11px;
+  border-radius: 8px;
+  box-shadow: 5px 5px 5px 5px gainsboro;
+ 
+}
+.fatemehs20{
+    border-radius: 15px;
+}
+.fatemehs-button{
+    width: 78px;
+}
+ftms-input{
+    width: 288px;
+    border-radius: 5px;
+}
+
