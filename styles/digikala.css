@@ -1,0 +1,43 @@
+*{
+    direction: rtl;
+}
+span{
+    font-size: x-large;
+    padding: 8px 0px;
+}
+.section-10{
+    margin: 16px 0px 0px;
+    padding: 9px 33px 11px 0px; 
+    display: flex;
+}
+.div-narges{
+    font-size: 20px;
+    margin: 0px 0px 6px 33px;
+    padding:0px 0px 0px 5px;  
+}
+#row{
+    width: 1150px;
+}
+.Model{
+    margin:20px;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 16px;
+    display: block;
+}
+#img-Model{
+    width: 250px;
+}
+#p-Model{
+    margin: 20px;
+    font-size: 16px;
+}
+#span:hover{
+    color: white;
+    transition: all 0.5s ease-out;
+}
+.span-m{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
